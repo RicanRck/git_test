@@ -1,1 +1,3 @@
-This is RicanRaf's first git project!
+# git_test
+My first Github repo!
+Hello Odin!
